@@ -22,12 +22,7 @@ I like to blend rapid AI-assisted development ("vibe coding") with solid core so
 
 ---
 
-### 📊 My GitHub Analytics
 
-<p align="left">
-  <img src="https://vercel.app" alt="Yoge486's GitHub Stats" height="150" />
-  <img src="https://vercel.app" alt="Yoge486's Top Languages" height="150" />
-</p>
 
 ---
 
