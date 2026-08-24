@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Yoge486!
+# 👋 Hi, I'm Yogeshwaran!
 
 🎓 **Student, Web App Developer & Vibe Coder**  
 
@@ -26,7 +26,7 @@ I like to blend rapid AI-assisted development ("vibe coding") with solid core so
 
 
 ### 🤝 Let's Connect!
-[💼 LinkedIn](www.linkedin.com/in/yogeshwaran-r-02365135m)  |   [📧 Email](mailto:yogesh27124@gmail.com)
+[💼 LinkedIn](www.linkedin.com/in/yogeshwaran-r-02365135m)   |    [📧 Email](mailto:yogesh27124@gmail.com)
 
 <p align="right">
   <img src="https://komarev.com" alt="Profile Views Counter" />
