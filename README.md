@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm Yoge486!
 
-<!--
-**Yoge486/Yoge486** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student, Web App Developer & Vibe Coder**  
 
-Here are some ideas to get you started:
+I like to blend rapid AI-assisted development ("vibe coding") with solid core software engineering practices to ship clean, modern web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ My Tech Stack & Tools
+
+- **Languages:** HTML5, CSS3, JavaScript, Python
+- **AI & Workflow Tools:** Cursor, GitHub Copilot, ChatGPT, v0
+- **Platforms:** Git, GitHub, VS Code, Vercel
+
+---
+
+### 🚀 Current Focus & Journey
+- 📚 I’m currently pursuing my tech degree while building full-stack web applications.
+- 🌱 I’m combining **vibe coding tools** with learning core software architectures to understand the full development lifecycle.
+- 💻 Accelerating project delivery from concept to production using AI design and code generation.
+- 💬 Ask me about prompting strategies, building fast web apps, or managing AI-assisted workflows.
+
+---
+
+### 📊 My GitHub Analytics
+
+<p align="left">
+  <img src="https://vercel.app" alt="Yoge486's GitHub Stats" height="150" />
+  <img src="https://vercel.app" alt="Yoge486's Top Languages" height="150" />
+</p>
+
+---
+
+### 🤝 Let's Connect!
+[💼 LinkedIn](www.linkedin.com/in/yogeshwaran-r-02365135m) | [📧 Email](mailto:yogesh27124@gmail.com)
+
+<p align="right">
+  <img src="https://komarev.com" alt="Profile Views Counter" />
+</p>
